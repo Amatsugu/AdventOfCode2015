@@ -1,6 +1,3 @@
-﻿using AdventOfCode2015.Day5;
+﻿using AdventOfCode2015.Day10;
 
-
-
-
-new NiceList().RunPart2();
+new LookAndSay("3113322113").Run(50);
